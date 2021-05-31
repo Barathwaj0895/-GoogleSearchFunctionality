@@ -1,2 +1,2 @@
 # -GoogleSearchFunctionality
-Has Search Funnctionality Tests
+Has Search Functionality Tests
